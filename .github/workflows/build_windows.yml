@@ -241,3 +241,4 @@ jobs:
       run: |
         cp ../ravi/Release/libravi.dll .
         ./LuaBridgeTestsRavi.exe
+
